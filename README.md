@@ -1,7 +1,8 @@
 # keepcoding
 ¿Que comando utilizaste en el paso 11? ¿Por qué?
 git reset --hard HEAD~1
-Porque me pide deshacer y perder los cambios, si solo quisiera deshacer sin perder los cambios utilizaría lo siguiente: git reset HEAD~1
+Porque me pide deshacer y perder los cambios, si solo quisiera deshacer sin perder los cambios utilizaría lo siguiente: 
+git reset HEAD~1
 
 ¿Que comando o comandos utilizaste en el paso 12? ¿Por qué?
 git checkout -- .  
@@ -20,7 +21,7 @@ Si. Hay un conflicto en la fusión de las dos Ramas. Porque Git no puede resolve
 git reset HEAD~1
 
 ¿Qué comando o comandos utilizaste en el paso 28?
-
+git reset --hard HEAD~1
 
 ¿Qué comando o comandos utilizaste en el paso 29?
 git branch -D title
