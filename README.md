@@ -1,6 +1,7 @@
 # keepcoding
 ¿Que comando utilizaste en el paso 11? ¿Por qué?
 git reset --hard HEAD~1
+
 Porque me pide deshacer y perder los cambios, si solo quisiera deshacer sin perder los cambios utilizaría lo siguiente: 
 git reset HEAD~1
 
